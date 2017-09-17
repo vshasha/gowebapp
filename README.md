@@ -23,7 +23,7 @@ Peruse the files in the *gowebapp* directory to familiarize yourself with the co
 
 Build and run the app.
   ```
-go run get-started-go.go
+go run goserver.go
   ```
 
 View your app at: http://localhost:13100
