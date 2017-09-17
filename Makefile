@@ -1,7 +1,7 @@
 all: test
 
 clean:
-	rm -f myFirstGoWebApp
+	rm -f gowebapp 
 
 install: prepare
 	godep go install
